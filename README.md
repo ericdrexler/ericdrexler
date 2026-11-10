@@ -1,4 +1,4 @@
-# K. Eric Drexler
+# Eric Drexler
 
 Researcher and author working on AI strategy and governance, AI system
 architecture, and prospects for advanced nanotechnologies.
